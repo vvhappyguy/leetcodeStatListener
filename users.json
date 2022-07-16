@@ -1,0 +1,30 @@
+{
+    "users":
+    [
+        {
+            "name":"Ivan",
+            "tgName":"Riokin",
+            "leetcodeLink":"https://leetcode.com/Riokin/"
+        },
+        {
+            "name":"Nikita",
+            "tgName":"qNickq",
+            "leetcodeLink":"https://leetcode.com/qNickq/"
+        },
+        {
+            "name":"Igor",
+            "tgName":"i_chernousov",
+            "leetcodeLink":"https://leetcode.com/onthestorm"
+        },
+        {
+            "name":"Vitaly",
+            "tgName":"zanovru",
+            "leetcodeLink":"https://leetcode.com/zanovru"
+        },
+        {
+            "name":"Petr",
+            "tgName":"petrinio",
+            "leetcodeLink":"https://leetcode.com/kvasnikoff"
+        }
+    ]
+}
